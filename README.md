@@ -9,3 +9,5 @@ For 'linear regression_NG_example 2', use ex1data1.txt file for training the sys
 For 'linear regression multiple variable', use ex1data2.txt file for training the system.
 
 For 'logistic egression' use ex2data1.txt as dataset and for 'regularized logistic regression' use ex2data2.txt as dataset for training purpose
+
+For 'KNN', the dataset is loaded directly from the URL in the code. To see the data separately, open irisknn.data file
